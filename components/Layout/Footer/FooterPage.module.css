@@ -113,3 +113,9 @@
     width: 150vw;
   }
 }
+
+@media screen and (max-height: 900px) {
+  .footer-container {
+    height: 200vh;
+  }
+}

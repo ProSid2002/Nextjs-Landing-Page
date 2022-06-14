@@ -14,10 +14,7 @@ const HomePage = () => {
       <Navbar />
       <div className={styles["home-container"]}>
         <h1>SIDDHARTH&apos;S LANDING PAGE</h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam
-          repudiandae in, quaerat optio aspernatur consectetur.
-        </p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         <div className={styles["home-form"]}>
           <input type="text" placeholder="Enter your domain" />
           <button>Try For Free</button>

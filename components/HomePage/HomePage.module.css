@@ -3,6 +3,7 @@
   background: url("/home-background.svg") no-repeat center;
   background-size: cover;
   color: #fff;
+  overflow: hidden;
 }
 
 .home-container {
@@ -62,7 +63,7 @@
   }
 
   .home-container p {
-    max-width: 70vw;
+    max-width: 80vw;
   }
 
   .home-form input {
@@ -99,5 +100,11 @@
   }
   .home-container p {
     width: 40%;
+  }
+}
+
+@media screen and (max-height: 900px) {
+  .home-page {
+    height: 200vh;
   }
 }
