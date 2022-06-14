@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640mm"
+   height="480mm"
+   viewBox="0 0 640 480"
+   version="1.1"
+   id="svg39651"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview39653"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.44813802"
+     inkscape:cx="1208.3331"
+     inkscape:cy="909.31807"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs39648">
+    <rect
+       x="271.56079"
+       y="307.89283"
+       width="1470.7894"
+       height="549.7106"
+       id="rect52854" />
+    <rect
+       x="426.02302"
+       y="547.04842"
+       width="1299.7306"
+       height="479.14784"
+       id="rect52848" />
+    <rect
+       x="693.73025"
+       y="580.09457"
+       width="116.66981"
+       height="83.305784"
+       id="rect46849" />
+    <rect
+       x="619.8043"
+       y="446.89177"
+       width="1122.1859"
+       height="713.76207"
+       id="rect46843" />
+    <rect
+       x="787.43367"
+       y="481.53735"
+       width="680.23351"
+       height="367.27006"
+       id="rect43153" />
+    <rect
+       x="334.23631"
+       y="411.82058"
+       width="1585.447"
+       height="557.25947"
+       id="rect43147" />
+    <rect
+       x="693.73022"
+       y="580.09454"
+       width="116.66981"
+       height="83.305786"
+       id="rect46849-3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text46841"
+       style="white-space:pre;shape-inside:url(#rect46843);display:inline;fill:#125b50;stroke:#125b50;stroke-width:3.77953;stroke-miterlimit:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text52846"
+       style="font-size:48px;white-space:pre;shape-inside:url(#rect52848);fill:#125b50;fill-opacity:1;stroke:#125b50;stroke-width:97.4362;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text52852"
+       style="font-size:48px;white-space:pre;shape-inside:url(#rect52854);fill:#125b50;fill-opacity:1;stroke:#125b50;stroke-width:3.77952761;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <rect
+       style="fill:#125b50;fill-opacity:1;stroke:#125b50;stroke-width:1;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect52880"
+       width="648.03589"
+       height="487.68976"
+       x="-2.1313927"
+       y="-3.0957751" />
+    <text
+       xml:space="preserve"
+       style="font-size:340.053px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:26.7758;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="37.340393"
+       y="343.63266"
+       id="text52860"
+       transform="scale(0.97710613,1.0234303)"><tspan
+         sodipodi:role="line"
+         id="tspan52858"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:26.7758;stroke:#ffffff;stroke-opacity:1"
+         x="37.340393"
+         y="343.63266">SID</tspan></text>
+  </g>
+</svg>

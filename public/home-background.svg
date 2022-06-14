@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g id="layer1-5" transform="matrix(0.74825 0 0 0.938992 100.442 22.8932)">
+    <path class="hello" d="m-134.11,338.71c0,0 260.6,-78.93 426.24,2.4c165.64,81.32 429.24,-15.12 429.24,-15.12l0,-353.22l-856.06,0l0,367.12" fill="#125b50" id="path30609" stroke="#6daffe" stroke-miterlimit="1" stroke-width="0"/>
+   </g>
+  </g>
+ </g>
+</svg>
